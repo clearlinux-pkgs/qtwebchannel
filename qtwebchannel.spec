@@ -4,7 +4,7 @@
 #
 Name     : qtwebchannel
 Version  : 5.11.2
-Release  : 9
+Release  : 10
 URL      : http://download.qt.io/official_releases/qt/5.11/5.11.2/submodules/qtwebchannel-everywhere-src-5.11.2.tar.xz
 Source0  : http://download.qt.io/official_releases/qt/5.11/5.11.2/submodules/qtwebchannel-everywhere-src-5.11.2.tar.xz
 Summary  : No detailed summary available
@@ -66,7 +66,7 @@ test -r config.log && cat config.log
 make  %{?_smp_mflags}
 
 %install
-export SOURCE_DATE_EPOCH=1537309321
+export SOURCE_DATE_EPOCH=1537312615
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/doc/qtwebchannel
 cp LICENSE.FDL %{buildroot}/usr/share/doc/qtwebchannel/LICENSE.FDL
