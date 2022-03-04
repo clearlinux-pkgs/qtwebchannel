@@ -10,6 +10,10 @@ Jani Heikkinen (1):
 Milian Wolff (1):
       Handle signals in the registered object's thread
 
+Tarja Sundqvist (2):
+      Update commercial license headers
+      Revert "Update commercial license headers"
+
 Øystein Heskestad (1):
       Handle per-transport client idle status
 
