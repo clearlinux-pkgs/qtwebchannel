@@ -11,10 +11,12 @@ Jani Heikkinen (2):
 Milian Wolff (1):
       Handle signals in the registered object's thread
 
-Tarja Sundqvist (3):
+Tarja Sundqvist (5):
       Update commercial license headers
       Revert "Update commercial license headers"
+      Bump version
       Merge remote-tracking branch 'origin/tqtc/lts-5.15.4' into tqtc/lts-5.15-opensource
+      Merge remote-tracking branch 'origin/tqtc/lts-5.15.5' into tqtc/lts-5.15-opensource
 
 Øystein Heskestad (1):
       Handle per-transport client idle status
