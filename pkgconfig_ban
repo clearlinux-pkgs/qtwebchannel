@@ -1,3 +1,11 @@
 # This file contains pkgconfig build requirements that get picked up
 # but are undesirable. One entry per line, no whitespace.
 Qt5WebChannel
+Qt6WebChannel
+Qt6Core
+Qt6Gui
+Qt6Qml
+Qt6Quick
+Qt6Test
+Qt6WebSockets
+Qt6Widgets
